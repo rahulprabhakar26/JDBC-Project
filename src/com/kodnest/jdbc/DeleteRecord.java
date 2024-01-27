@@ -18,7 +18,7 @@ public class DeleteRecord {
 		// Connection Information
 		String url = "jdbc:mysql://localhost/kodnest5";
 		String username = "root";
-		String password = "Prabhakar@0626#";
+		String password = "root@123";
 		
 		//executing the sql statements
 			String sql= "delete from student where id=?";
