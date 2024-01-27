@@ -18,7 +18,7 @@ public class InsertTable {
 		// Connection Information
 		String url = "jdbc:mysql://localhost/kodnest5";
 		String username = "root";
-		String password = "Prabhakar@0626#";
+		String password = "Root@123";
 		
 		//executing the sql statement
 		String sql= "insert into student values(? ,?)";
