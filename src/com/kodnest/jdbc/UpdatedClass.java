@@ -18,7 +18,7 @@ public class UpdatedClass {
 		// Connection Information
 		String url = "jdbc:mysql://localhost/kodnest5";
 		String username = "root";
-		String password = "Prabhakar@0626#";
+		String password = "Root@123";
 		
 		//executing sql statements
 		String sql= "Update student set name =? where id=?";
