@@ -18,7 +18,7 @@ public class CreateTable {
 		// Connection Information
 		String url = "jdbc:mysql://localhost/kodnest5";
 		String username = "root";
-		String password = "Prabhakar@0626#";
+		String password = "root@123";
 
 		Connection connection = DriverManager.getConnection(url, username, password);
 		System.out.println(connection + "Connection success");
