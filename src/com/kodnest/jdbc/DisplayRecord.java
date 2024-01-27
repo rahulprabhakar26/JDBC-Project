@@ -19,7 +19,7 @@ public class DisplayRecord {
 		// Connection Information
 		String url = "jdbc:mysql://localhost/kodnest5";
 		String username = "root";
-		String password = "Prabhakar@0626#";
+		String password = "Root@123";
 		
 		//
 		String sql= "select * from student where id=?";
